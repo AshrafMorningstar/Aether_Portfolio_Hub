@@ -1,0 +1,17 @@
+/*
+Copyright (c) 2026 Ashraf Morningstar
+These are personal recreations of existing projects, developed by Ashraf Morningstar
+for learning and skill development.
+Original project concepts remain the intellectual property of their respective creators.
+Repository: https://github.com/AshrafMorningstar/portfolio-site
+*/
+
+{
+  "name": "portfolio-site",
+  "description": "Professional Portfolio Website with Premium UI",
+  "private": false,
+  "homepage": "https://ashrafmorningstar.github.io/portfolio-site",
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}

@@ -1,0 +1,19 @@
+/*
+ * Copyright (c) 2026 Ashraf Morningstar
+ * https://github.com/AshrafMorningstar
+ * 
+ * These are personal recreations of existing projects, developed for learning.
+ * Original project concepts remain the intellectual property of their creators.
+ * 
+ * Licensed under the MIT License.
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-white font-sans antialiased;
+  }
+}

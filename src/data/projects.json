@@ -1,0 +1,46 @@
+/*
+Copyright (c) 2026 Ashraf Morningstar
+These are personal recreations of existing projects, developed by Ashraf Morningstar
+for learning and skill development.
+Original project concepts remain the intellectual property of their respective creators.
+Repository: https://github.com/AshrafMorningstar/portfolio-site
+*/
+
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce solution with cart, checkout, and payments.",
+    "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+    "github": "https://github.com/example/ecommerce",
+    "live": "https://demo-ecommerce.com",
+    "image": "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "Kanban-style task manager with real-time updates.",
+    "tech": ["Vue.js", "Firebase", "Tailwind"],
+    "github": "https://github.com/example/task-manager",
+    "live": "https://demo-task.com",
+    "image": "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "Real-time weather tracking using OpenWeather API.",
+    "tech": ["React", "API integration", "Chart.js"],
+    "github": "https://github.com/example/weather",
+    "live": "https://demo-weather.com",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": 4,
+    "title": "AI Image Generator",
+    "description": "Interface for generating images using OpenAI DALL-E API.",
+    "tech": ["Next.js", "OpenAI API", "Vercel"],
+    "github": "https://github.com/example/ai-gen",
+    "live": "https://demo-ai-gen.com",
+    "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?auto=format&fit=crop&q=80&w=1000"
+  }
+]

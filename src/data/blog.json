@@ -1,0 +1,37 @@
+/*
+Copyright (c) 2026 Ashraf Morningstar
+These are personal recreations of existing projects, developed by Ashraf Morningstar
+for learning and skill development.
+Original project concepts remain the intellectual property of their respective creators.
+Repository: https://github.com/AshrafMorningstar/portfolio-site
+*/
+
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React 19",
+    "excerpt": "Exploring the new features in React 19 including the Compiler and Actions.",
+    "date": "Oct 12, 2025",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=1000",
+    "slug": "getting-started-react-19"
+  },
+  {
+    "id": 2,
+    "title": "Mastering Tailwind CSS Grid",
+    "excerpt": "A comprehensive guide to building complex layouts with Tailwind CSS Grid utilities.",
+    "date": "Sep 28, 2025",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000",
+    "slug": "mastering-tailwind-grid"
+  },
+  {
+    "id": 3,
+    "title": "The Future of Web Development",
+    "excerpt": "Trends to watch out for in 2026: AI integration, WebAssembly, and more.",
+    "date": "Aug 15, 2025",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000",
+    "slug": "future-web-dev"
+  }
+]
